@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/random_quotes_biswap/static/css/main.f064edc7.css",
+    "main.js": "/random_quotes_biswap/static/js/main.fae9980a.js",
+    "index.html": "/random_quotes_biswap/index.html",
+    "main.f064edc7.css.map": "/random_quotes_biswap/static/css/main.f064edc7.css.map",
+    "main.fae9980a.js.map": "/random_quotes_biswap/static/js/main.fae9980a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f064edc7.css",
+    "static/js/main.fae9980a.js"
+  ]
+}
