@@ -1,0 +1,32 @@
+{
+  "name": "my-react-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "homepage": "https://lipu0052.github.io/random_quotes_biswap",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "react-scripts build",
+    "start": "react-scripts start",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build"
+    
+  },
+  "keywords": [],
+  "author": "Biswajit Pradhan",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  },
+  "description": ""
+}
