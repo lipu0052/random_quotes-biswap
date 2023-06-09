@@ -1,0 +1,25 @@
+ .card{
+    max-width: 400px;
+
+}
+.card-title{
+    display: flex;
+    justify-content: flex-end;
+}
+.card-footer{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+   
+}
+
+.icons{
+   font-size: 30px;
+  
+   display: flex;
+  
+}
+.icons a{
+    margin: 5px;
+}
